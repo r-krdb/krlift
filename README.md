@@ -6,3 +6,12 @@
 R에서 사용하기 쉽게 제작한 패키지
 
 * `lift`: 한국승강기안전공단에서 제공하는 한국 승강기 설치 현황
+
+## installation
+
+```
+if(!requireNamespace("devtools")) install.packages("devtools")
+devtools::install_github("mrchypark/krlift")
+library(krlift)
+lift
+```
