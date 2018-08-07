@@ -13,7 +13,7 @@ Depends:
     R (>= 2.10)
 Imports:
     tibble
-remotes:
+Remotes:
     github::ColinFay/fryingpane
 Suggests:
     dplyr
