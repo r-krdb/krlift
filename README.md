@@ -12,8 +12,7 @@ R에서 사용하기 쉽게 제작한 패키지
 ## installation
 
 ```
-if(!requireNamespace("devtools")) install.packages("devtools")
-devtools::install_github("mrchypark/krlift")
+source("https://install-github.me/mrchypark/krlift")
 library(krlift)
 lift
 ```
