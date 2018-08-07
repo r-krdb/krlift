@@ -13,6 +13,8 @@ Depends:
     R (>= 2.10)
 Imports:
     tibble
+remotes:
+    github::ColinFay/fryingpane
 Suggests:
     dplyr
 URL: http://github.com/mrchypark/krlift
