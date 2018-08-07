@@ -4,5 +4,13 @@ language: R
 sudo: false
 cache: packages
 
+r:
+- 3.2
+- 3.3
+- 3.4
+- oldrel
+- release
+- devel
+
 r_github_packages:
   - mrchypark/krlift
