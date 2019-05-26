@@ -18,6 +18,3 @@
 #' @examples
 #'   lift
 "lift"
-
-#' @importFrom tibble tibble
-NULL
